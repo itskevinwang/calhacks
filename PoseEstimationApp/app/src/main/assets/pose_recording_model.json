@@ -1,0 +1,8 @@
+{
+  "model_path": "file:///android_asset/converted_model.tflite",
+  "pinned_version": 1,
+  "model_version": 1,
+  "model_id": "Your model id",
+  "use_displacements": true,
+  "output_stride": 8
+}
